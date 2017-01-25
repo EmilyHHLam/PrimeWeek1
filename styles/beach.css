@@ -1,0 +1,46 @@
+*
+{
+  margin: auto;
+  width: 800px;
+  padding:0;
+  text-align: center;
+}
+.world {
+  font-size: 200px;
+  text-align: center;
+  font-famiy: arial;
+  font-weight: bold;
+
+}
+.containter {
+  width: 700px;
+  height: 500px;
+}
+.img {
+  width: 50%;
+  height: 50%;
+  padding: 0px;
+  margin: 0px;
+}
+.word {
+  font-size: 180px;
+  text-align: center;
+  font-weight: 900;
+  text-shadow: 10px 10px #F7F2E0;
+}
+#w {
+  color: #8000FF;
+
+}
+#o {
+  color: #4000FF;
+}
+#r {
+  color: #58FA58;
+}
+#l {
+  color: #F7FE2E;
+}
+#d {
+  color: #FF0000;
+}
